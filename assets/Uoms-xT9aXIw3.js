@@ -1,0 +1,1 @@
+import{u as o,_ as r}from"./configs-5e3yzY5M.js";import{o as s,p as a,f as n}from"./index-imeRkZGx.js";import"./CrossTable-CrmQUmTJ.js";const p={__name:"Uoms",setup(c){return(e,t)=>(s(),a(r,{config:n(o)},null,8,["config"]))}};export{p as default};

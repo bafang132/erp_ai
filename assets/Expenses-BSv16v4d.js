@@ -1,0 +1,1 @@
+import{k as e,_ as o}from"./configs-5e3yzY5M.js";import{o as s,p as n,f as r}from"./index-imeRkZGx.js";import"./CrossTable-CrmQUmTJ.js";const i={__name:"Expenses",setup(a){return(c,p)=>(s(),n(o,{config:r(e)},null,8,["config"]))}};export{i as default};

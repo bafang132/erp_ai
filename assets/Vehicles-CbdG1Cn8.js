@@ -1,0 +1,1 @@
+import{v as e,_ as o}from"./configs-5e3yzY5M.js";import{o as c,p as r,f as s}from"./index-imeRkZGx.js";import"./CrossTable-CrmQUmTJ.js";const p={__name:"Vehicles",setup(a){return(n,t)=>(c(),r(o,{config:s(e)},null,8,["config"]))}};export{p as default};

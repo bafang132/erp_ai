@@ -1,0 +1,1 @@
+import{B as i,U as u}from"./index-imeRkZGx.js";import{u as a}from"./navigation-CDguiApg.js";const n=(r,e=!1)=>{var o,s;if((o=r.meta)!=null&&o.hideBreadcrumb)return!1;const t=(s=r.query)==null?void 0:s.breadcrumb;return t==="0"?!1:t==="1"?!0:!!e},b=()=>{const r=u(),e=a();return i(()=>n(r,e.settings.showBreadcrumb))};export{b as u};

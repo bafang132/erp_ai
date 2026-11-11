@@ -1,0 +1,1 @@
+import{ag as t,M as c,bl as m,bm as o}from"./install-bh8Gy5bP.js";function S(a,e,n){e=t(e)&&{coordDimensions:e}||c({encodeDefine:a.getEncode()},e);var r=a.getSource(),s=m(r,e).dimensions,i=new o(s,a);return i.initData(r,n),i}export{S as c};

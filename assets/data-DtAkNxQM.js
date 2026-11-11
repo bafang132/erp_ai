@@ -1,0 +1,1 @@
+import{p as t}from"./request-CLnXWAPJ.js";function i(){return t("/data/list",{model:"last_30_day_login"})}function r(){return t("/data/list",{model:"login_data"})}function s(a){let e={};return e.key=a,t("/userConfig/key",e)}function u(a,e){let n={};return n.key=a,n.value=e,t("/userConfig/value",n)}export{i as a,r as g,s as k,u as v};

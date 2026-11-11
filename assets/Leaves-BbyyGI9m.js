@@ -1,0 +1,1 @@
+import{g as e,_ as o}from"./configs-5e3yzY5M.js";import{o as a,p as r,f as s}from"./index-imeRkZGx.js";import"./CrossTable-CrmQUmTJ.js";const i={__name:"Leaves",setup(n){return(c,t)=>(a(),r(o,{config:s(e)},null,8,["config"]))}};export{i as default};

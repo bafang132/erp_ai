@@ -1,0 +1,1 @@
+import{t as r,_ as o}from"./configs-5e3yzY5M.js";import{o as s,p as a,f as n}from"./index-imeRkZGx.js";import"./CrossTable-CrmQUmTJ.js";const i={__name:"StockTransfers",setup(t){return(e,c)=>(s(),a(o,{config:n(r)},null,8,["config"]))}};export{i as default};

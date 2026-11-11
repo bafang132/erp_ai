@@ -1,0 +1,1 @@
+import{a as e,_ as o}from"./configs-5e3yzY5M.js";import{o as r,p as a,f as n}from"./index-imeRkZGx.js";import"./CrossTable-CrmQUmTJ.js";const p={__name:"Agreements",setup(s){return(t,c)=>(r(),a(o,{config:n(e)},null,8,["config"]))}};export{p as default};

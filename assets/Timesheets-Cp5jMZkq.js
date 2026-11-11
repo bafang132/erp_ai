@@ -1,0 +1,1 @@
+import{e,_ as o}from"./configs-5e3yzY5M.js";import{o as s,p as t,f as r}from"./index-imeRkZGx.js";import"./CrossTable-CrmQUmTJ.js";const m={__name:"Timesheets",setup(a){return(n,c)=>(s(),t(o,{config:r(e)},null,8,["config"]))}};export{m as default};

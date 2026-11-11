@@ -1,0 +1,1 @@
+import{am as a}from"./index-imeRkZGx.js";const t={listingCopy:e=>a.post("/ai/ext/listing-copy",e),reviewAnalysis:e=>a.post("/ai/ext/review-analysis",e),adRules:()=>a.get("/ai/ext/ad-rules"),evaluateAdRules:e=>a.post("/ai/ext/ad-rules/evaluate",e)};export{t as a};

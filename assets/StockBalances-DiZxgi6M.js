@@ -1,0 +1,1 @@
+import{s as o,_ as a}from"./configs-5e3yzY5M.js";import{o as c,p as s,f as n}from"./index-imeRkZGx.js";import"./CrossTable-CrmQUmTJ.js";const i={__name:"StockBalances",setup(e){return(r,t)=>(c(),s(a,{config:n(o)},null,8,["config"]))}};export{i as default};

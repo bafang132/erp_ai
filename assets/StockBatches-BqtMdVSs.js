@@ -1,0 +1,1 @@
+import{b as o,_ as a}from"./configs-5e3yzY5M.js";import{o as c,p as t,f as e}from"./index-imeRkZGx.js";import"./CrossTable-CrmQUmTJ.js";const i={__name:"StockBatches",setup(r){return(s,n)=>(c(),t(a,{config:e(o)},null,8,["config"]))}};export{i as default};

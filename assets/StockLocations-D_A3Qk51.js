@@ -1,0 +1,1 @@
+import{l as o,_ as a}from"./configs-5e3yzY5M.js";import{o as c,p as n,f as t}from"./index-imeRkZGx.js";import"./CrossTable-CrmQUmTJ.js";const p={__name:"StockLocations",setup(r){return(s,e)=>(c(),n(a,{config:t(o)},null,8,["config"]))}};export{p as default};

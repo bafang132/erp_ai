@@ -1,0 +1,1 @@
+import{p as i}from"./request-CLnXWAPJ.js";import{W as l,m as f}from"./index-imeRkZGx.js";function d(s,t){let e=f({});return t==null&&(t={},t.sortMethod="asc",t.sortField="id",t.level=1,t.size=500,t.fetch=0),l(()=>{i(s,t).then(o=>{o.code===200&&(e.value=o.data)})}),{listData:e}}export{d as u};

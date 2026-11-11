@@ -1,0 +1,1 @@
+import{q as o,_ as a}from"./configs-5e3yzY5M.js";import{o as r,p as t,f as n}from"./index-imeRkZGx.js";import"./CrossTable-CrmQUmTJ.js";const p={__name:"Quality",setup(c){return(e,s)=>(r(),t(a,{config:n(o)},null,8,["config"]))}};export{p as default};

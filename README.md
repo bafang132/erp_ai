@@ -1,1 +1,0 @@
-Zhiying ERP static demo (mock mode). See GitHub Pages.

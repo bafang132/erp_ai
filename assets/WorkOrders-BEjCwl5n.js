@@ -1,0 +1,1 @@
+import{w as r,_ as o}from"./configs-5e3yzY5M.js";import{o as e,p as s,f as a}from"./index-imeRkZGx.js";import"./CrossTable-CrmQUmTJ.js";const i={__name:"WorkOrders",setup(n){return(c,t)=>(e(),s(o,{config:a(r)},null,8,["config"]))}};export{i as default};
